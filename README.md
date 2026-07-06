@@ -82,9 +82,6 @@ FlowLens-AI/
 
 ⚙️ Installation
 
-Clone the repository
-
-git clone https://github.com/your-username/FlowLens-AI.git
 
 Go to the project directory
 
